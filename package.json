@@ -44,7 +44,7 @@
     "end-of-stream": "1.4.1",
     "escape-html": "^1.0.3",
     "fs-chunk-store": "^2.0.2",
-    "http-node": "github:feross/http-node#webtorrent",
+    "http-node": "https://github.com/feross/http-node/tarball/master",
     "immediate-chunk-store": "^2.1.0",
     "load-ip-set": "^2.1.0",
     "memory-chunk-store": "^1.3.0",
